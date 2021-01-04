@@ -1,5 +1,12 @@
 body{
     font-family: 'Poppins', sans-serif;
+    margin: 0px;
+}
+
+.top-banner{
+    background-image: url(images/top-banner.png);
+    background-repeat: no-repeat;
+
 }
 
 
@@ -21,4 +28,8 @@ p{
 }
 .half-width img{
     width:100%;
+}
+
+section{
+    height: 500px;
 }
